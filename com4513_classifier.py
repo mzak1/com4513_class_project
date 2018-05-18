@@ -1,5 +1,5 @@
 from utils.dataset import Dataset
-from utils.baseline import Baseline
+from utils.baselineMZ import Baseline
 from utils.scorer import report_score
 
 
